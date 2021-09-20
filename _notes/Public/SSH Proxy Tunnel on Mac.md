@@ -25,7 +25,8 @@ When done, untick SOCKS Proxy.
 The above is just for the first time setup. Once done, I use this command in my terminal to create the tunnel and set the SOCKS Proxy on my Wi-Fi connection: 
 
 ```bash
-networksetup -setsocksfirewallproxystate Wi-Fi on ; ssh -ND 1080 inxui.com
+networksetup -setsocksfirewallproxystate Wi-Fi on 
+ssh -ND 1080 my.server.com
 ```
 
 Ctrl + C to end tunneling and then to switch off the proxy: 
