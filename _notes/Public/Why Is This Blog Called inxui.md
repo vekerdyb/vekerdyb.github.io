@@ -7,4 +7,4 @@ Around a decade ago I bought inxui.com because I thought it is funny how you can
 
 It's pronounced "inksy".
 
-But why did I [[set up a blog]]?
+But why did [[I Set Up a Blog]]?

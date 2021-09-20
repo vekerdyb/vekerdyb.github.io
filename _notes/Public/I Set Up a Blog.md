@@ -17,4 +17,4 @@ Danger zone: public plans. I'd like to add the following improvements over time:
 - [ ] maybe some form of tagging, although backlinks might be a nicer way of discovery
 - [ ] move hosting to my private server
 
-[[Why is it called inxui]]?
+[[Why Is This Blog Called inxui]]?
