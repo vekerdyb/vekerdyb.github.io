@@ -1,5 +1,5 @@
 ---
-title : Why Is This Blog Called inxui?
+title : Why Is This Blog Called inxui
 notetype : feed
 date : 20-09-2021
 ---
