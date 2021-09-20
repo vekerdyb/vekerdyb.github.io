@@ -2,7 +2,7 @@
 title : I Set Up a Blog
 clickbait: 3 Things You Never Knew About This Blog
 notetype : feed
-date : 20-09-2021
+date : 19-09-2021
 ---
 Because maybe I will take more notes and occassionally remember things.
 
@@ -17,4 +17,4 @@ Danger zone: public plans. I'd like to add the following improvements over time:
 - [ ] maybe some form of tagging, although backlinks might be a nicer way of discovery
 - [ ] move hosting to my private server
 
-[[Why Is This Blog Called inxui]]?
+[[Why Is This Blog Called inxui?]]?
