@@ -1,6 +1,5 @@
 ---
 title : Why Is This Blog Called inxui?
-clickbait: Shocking: University Student Has A TWISTED Reason For Purchase Of A Domain
 notetype : feed
 date : 20-09-2021
 ---
