@@ -1,5 +1,5 @@
 ---
-title : I Set Up a Blog
+title : I set up a blog
 clickbait: 3 Things You Never Knew About This Blog
 notetype : feed
 date : 19-09-2021

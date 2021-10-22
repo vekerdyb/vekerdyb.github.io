@@ -1,5 +1,6 @@
 ---
-title : Why Is This Blog Called inxui?
+title : Why is this blog called inxui?
+clickbait: SHOCKING! This Name Makes No Sense
 notetype : feed
 date : 20-09-2021
 ---

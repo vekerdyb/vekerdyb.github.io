@@ -1,5 +1,5 @@
 ---
-title : SSH Proxy Tunnel on Mac
+title : SSH proxy tunnel on Mac
 clickbait: I've Dug A Tunnel To My Server And This Is What Happened Next
 notetype : feed
 date : 20-09-2021
